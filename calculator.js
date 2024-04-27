@@ -56,8 +56,8 @@ app.post("/", function (req, res) {
   `);
 });
 
-app.listen(3000, function () {
-  console.log("server started on port 3000");
+app.listen(4000, function () {
+  console.log("server started on port 4000");
 });
 
 function add(num1, num2) {
